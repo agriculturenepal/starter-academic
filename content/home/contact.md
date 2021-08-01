@@ -10,21 +10,18 @@ headless: true
 weight: 130
 
 title: Contact
-subtitle:
+subtitle: "for interation and possible opportunities to work together"
 
 content:
   # Automatically link email and phone or display as text?
   autolink: true
   
-  # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
+# Email form provider
+#   0: Disable email form
+#   1: Netlify (requires that the site is hosted by Netlify)
+#   2: formspree.io
+email_form = 2
+
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
-  
-design:
-  columns: '2'
 ---
