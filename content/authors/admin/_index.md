@@ -2,8 +2,8 @@
 title: Dinesh Panday
 role: Postdoctoral Researcher in Soil Nitrogen Management
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests include soil nitrogen management, biogeochemistry and
+  greenhouse gas emissions.
 interests:
   - Biogeochemistry
   - Nitrogen Management
@@ -11,9 +11,6 @@ interests:
   - Greenhouse Gas Emissions
   - Cropping Systems
 social:
-  # icon: envelope
-  # icon_pack: fas
-  # link: /#contact
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/DineshPanday
