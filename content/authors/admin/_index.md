@@ -1,6 +1,6 @@
 ---
 title: Dinesh Panday
-role: Postdoctoral Researcher- Soil Nitrogen Management
+role: Postdoctoral Researcher in Soil Nitrogen Management
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
@@ -38,7 +38,7 @@ education:
       institution: Lincoln University of Missouri
       year: 2015
     - course: BSc in Agriculture (Soil Science)
-      institution: Tribhuvan University
+      institution: Tribhuvan University (IAAS)
       year: 2012
 email: agriculturenepal@gmail.com
 superuser: true
