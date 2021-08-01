@@ -26,6 +26,16 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/dineshpanday/
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Dinesh-Panday
+    icon_pack: fab
+    icon: researchgate
+  - display:
+      header: false
+    link: https://orcid.org/0000-0001-8452-3797
+    icon_pack: fab
+    icon: orcid
 organizations:
   - name: The University of Tennessee, Knoxville
     url: https://www.utk.edu/
