@@ -20,6 +20,15 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
+# Enter contact details (optional). To hide a field, clear it to "".
+email = "agriculturenepal@gmail.com"
+phone = ""
+
+# Address
+# For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
+address = {street = "2506 E J Chapman Drive", city = "Knoxville", region = "TN", postcode = "37996", country = "United States", country_code = "US"}
+
+
 # Site header
 
 main_menu:
