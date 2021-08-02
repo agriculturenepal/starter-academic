@@ -10,6 +10,7 @@ interests:
   - Nutrient Cycling
   - Greenhouse Gas Emissions
   - Cropping Systems
+  - Big Data in Agriculture
 social:
   - icon: twitter
     icon_pack: fab
