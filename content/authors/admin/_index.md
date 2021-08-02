@@ -35,7 +35,7 @@ social:
     icon_pack: fab
     icon: orcid
 organizations:
-  - name: The University of Tennessee, Knoxville
+  - name: The University of Tennessee Knoxville
     url: https://www.utk.edu/
 education:
   courses:
