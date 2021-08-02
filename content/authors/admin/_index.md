@@ -45,7 +45,7 @@ education:
     - course: MS in Environmental Sciences
       institution: Lincoln University of Missouri
       year: 2015
-    - course: BSc in Agriculture- Soil Science
+    - course: BS in Agriculture- Soil Science
       institution: Tribhuvan University- IAAS
       year: 2012
 email: agriculturenepal@gmail.com
