@@ -52,6 +52,6 @@ email: agriculturenepal@gmail.com
 superuser: true
 highlight_name: false
 ---
-This site is currently under construction. Please check back later. 
+This website is currently under construction. Please check back later. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
