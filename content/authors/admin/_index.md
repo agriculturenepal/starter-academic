@@ -1,6 +1,6 @@
 ---
 title: Dinesh Panday
-role: Postdoctoral Researcher in Soil Nitrogen Management
+role: Research Soil Scientist
 avatar_filename: avatar.jpg
 bio: My research interests include soil nitrogen management, biogeochemistry and
   greenhouse gas emissions.
