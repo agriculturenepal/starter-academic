@@ -52,7 +52,7 @@ email: agriculturenepal@gmail.com
 superuser: true
 highlight_name: false
 ---
-**\[This website is currently under construction. Please check back later.]** 
+**\[This website is currently under construction. Please check back later.Thank You!]** 
 
 Dinesh has completed his Ph.D. in 2020 from University of Nebraska-Lincoln, Nebraska, USA. Currently, he is working as a Post-doctoral Research Associate in [Dr. Saha Lab](https://sahalab.utk.edu/) at the University of Tennessee in Knoxville, Tennessee. 
 
