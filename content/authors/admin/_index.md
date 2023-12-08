@@ -2,7 +2,7 @@
 title: Dinesh Panday
 role: Research Soil Scientist
 avatar_filename: avatar.jpg
-bio: My research interests include soil nitrogen management, biogeochemistry and
+bio: My research interests include soil carbon and nitrogen cycling, biogeochemistry and
   greenhouse gas emissions.
 interests:
   - Biogeochemistry
